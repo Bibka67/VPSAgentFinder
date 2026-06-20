@@ -1,5 +1,5 @@
 # VPSAgentFinder
-```md
+
 <div align="center">
 
 # VPSAgentFinder
@@ -19,7 +19,6 @@ Terminal UI utility for auditing and cleaning VPS/VDS management agents, cloud-i
 ![Open Source](https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge)
 
 </div>
-```
 
 Terminal UI utility for auditing and cleaning VPS/VDS servers from management agents, cloud-init components, unwanted SSH keys, suspicious cron jobs, systemd timers, and other software that can modify system configuration.
 
