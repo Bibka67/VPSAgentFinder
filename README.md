@@ -17,6 +17,7 @@ Terminal UI utility for auditing and cleaning VPS/VDS management agents, cloud-i
 ![Open Source](https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge)
 
 </div>
+
 ## Features
 
 * 🔍 Automatic system scan
