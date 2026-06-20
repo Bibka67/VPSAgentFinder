@@ -16,6 +16,9 @@ Terminal UI utility for auditing and cleaning VPS/VDS management agents, cloud-i
 ![Security Audit](https://img.shields.io/badge/Security-Audit_Tool-red?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge)
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Bibka67/VPSAgentFinder?style=for-the-badge)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Bibka67/VPSAgentFinder/total?style=for-the-badge)
+
 </div>
 
 ## Features
