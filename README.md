@@ -1,4 +1,25 @@
 # VPSAgentFinder
+```md
+<div align="center">
+
+# VPSAgentFinder
+
+Terminal UI utility for auditing and cleaning VPS/VDS management agents, cloud-init components, SSH keys, cron jobs, and system services.
+
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Bibka67/VPSAgentFinder?style=for-the-badge&logo=go)
+![GitHub Repo stars](https://img.shields.io/github/stars/Bibka67/VPSAgentFinder?style=for-the-badge&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/Bibka67/VPSAgentFinder?style=for-the-badge&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/Bibka67/VPSAgentFinder?style=for-the-badge&logo=github)
+![GitHub License](https://img.shields.io/github/license/Bibka67/VPSAgentFinder?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-Supported-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TUI](https://img.shields.io/badge/Interface-Terminal_UI-9146FF?style=for-the-badge)
+![Bubble Tea](https://img.shields.io/badge/BubbleTea-TUI_Framework-FF69B4?style=for-the-badge)
+![Security Audit](https://img.shields.io/badge/Security-Audit_Tool-red?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge)
+
+</div>
+```
 
 Terminal UI utility for auditing and cleaning VPS/VDS servers from management agents, cloud-init components, unwanted SSH keys, suspicious cron jobs, systemd timers, and other software that can modify system configuration.
 
