@@ -1,4 +1,5 @@
 <div align="center">
+
 # VPSAgentFinder
 
 Terminal UI utility for auditing and cleaning VPS/VDS management agents, cloud-init components, SSH keys, cron jobs, and system services.
@@ -14,9 +15,8 @@ Terminal UI utility for auditing and cleaning VPS/VDS management agents, cloud-i
 ![Bubble Tea](https://img.shields.io/badge/BubbleTea-TUI_Framework-FF69B4?style=for-the-badge)
 ![Security Audit](https://img.shields.io/badge/Security-Audit_Tool-red?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge)
+
 </div>
-
-
 ## Features
 
 * 🔍 Automatic system scan
